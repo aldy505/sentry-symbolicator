@@ -6,6 +6,9 @@
 
 - Bump `proguard` from v5.5.0 to v5.6.1
   This also bumps the proguard cache version from v3 to v4. ([#1734](https://github.com/getsentry/symbolicator/pull/1734))
+- Bump Native SDK from v0.9.1 to v0.11.1 ([#5](https://github.com/aldy505/sentry-symbolicator/pull/5))
+  - [changelog](https://github.com/getsentry/sentry-native/blob/master/CHANGELOG.md#0111)
+  - [diff](https://github.com/getsentry/sentry-native/compare/0.9.1...0.11.1)
 
 ### Various fixes & improvements
 
